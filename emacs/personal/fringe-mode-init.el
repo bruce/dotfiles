@@ -1,0 +1,1 @@
+(fringe-mode -1)
