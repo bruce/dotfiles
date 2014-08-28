@@ -7,3 +7,6 @@
 (setq-default js2-mode-show-parse-errors nil)
 (require 'flymake-jshint)
 (add-hook 'js2-mode-hook 'flymake-mode)
+(setq-default js2-basic-offset 2)
+
+(setq jshint-configuration-path "~/.jshint.ember.json")
