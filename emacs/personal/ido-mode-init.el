@@ -1,2 +1,2 @@
-(require 'ido)
-(ido-mode t)
+;; (require 'ido)
+;; (ido-mode t)
